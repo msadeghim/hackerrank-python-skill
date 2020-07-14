@@ -1,0 +1,1 @@
+regex_pattern = r"^M{,3}(CM)?D?(CD){,2}C{,3}(XC)?L?(XL){,2}X{,3}(IX)?V?(IV){,2}I{,3}$"	# Do not delete 'r'.
